@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momansi&label=Profile%20views&color=0e75b6&style=flat" alt="momansi" /> </p>
 
-- 🔭 I’m currently interesting in **DevOps and Linux**
+- 🔭 I’m interesting in **DevOps and Linux**
 
 - 🌱 I’m currently learning **DevOps**
 
